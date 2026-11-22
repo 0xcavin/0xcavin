@@ -1,16 +1,23 @@
-## Hi there 👋
+# cav🚀n / 0xcavin
 
-<!--
-**0xcavin/0xcavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crypto enthusiast, developer, creator — airdrops, testnets, bug fixes, bounties. DYOR, don't trust — verify, not your keys, not your coins.
 
-Here are some ideas to get you started:
+> DYOR, don't trust — verify, not your keys, not your coins.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+
+- X: https://x.com/0xcavin_
+- GitHub: https://github.com/0xcavin
+- Telegram: https://t.me/airdropfind
+- Project home: https://0xcavin.github.io
+
+## Projects
+
+- **On-chain sniper tools** — Circle Agent Wallets live, 100 test USDC, testnet. See [on-chain-sniper-tools](https://github.com/0xcavin/on-chain-sniper-tools)
+- **Multi-chain burner wallet** — testnet-first. See [multi-chain-burner-wallet](https://github.com/0xcavin/multi-chain-burner-wallet)
+- **cavin.muse site**
+- **@airdropfind** — verified airdrops: https://t.me/airdropfind
+
+## Testnet-only
+
+Testnet-only. $0 real money. Free only. No KYC. No live keys or seed phrases are ever shared or stored in any repo.
